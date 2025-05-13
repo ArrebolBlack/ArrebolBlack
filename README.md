@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ... Emboddied Intelligence
 - 💞️ I’m looking to collaborate on ... paper
-- 📫 How to reach me  yjqhit@gmail.com
+- 📫 How to reach me  yjqhit@gmail.com || 2078004110@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
