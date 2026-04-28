@@ -1,3 +1,5 @@
+## 🚀 About Me
+
 - 👋 Hi, I’m Jiaqi Yin (殷家琦)
 - 👀 I’m interested in AI
 - 🌱 I'm currently focusing on Embodied Intelligence & Robotics
