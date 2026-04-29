@@ -10,7 +10,11 @@
 
 ## 📊 GitHub Stats
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ArrebolBlack&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArrebolBlack&layout=compact&theme=radical)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ArrebolBlack.ArrebolBlack) <!-- 这是一个显示主页访问次数的徽章 -->
 
 
 <!---
